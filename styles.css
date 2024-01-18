@@ -1,0 +1,95 @@
+#dashboard{
+    background-color: #FAF7F0;
+    position:relative;
+    background-image: url(image/e.jpg); 
+    color:#edfbfd;
+}
+
+
+
+
+.into{
+    position: relative;
+    bottom: 5rem;
+    color:#edfbfd;
+
+
+}
+
+.logo{
+    position: relative;
+    height: 13rem;
+    left: 65rem;
+    top: 7.5rem;
+}
+
+body{
+    margin: 0%;
+    
+}
+
+p{
+    font-family: 'Nunito', sans-serif;
+    margin-left: 12rem ;
+    font-size: 1.5rem;
+    
+    
+}
+
+.last{
+    padding-bottom: 2rem;
+
+}
+
+.container{
+height: 250px;
+width: 1000px;
+position: relative;
+}
+
+.finished-goods-container{
+    padding-bottom: 2rem;
+    padding-top: 3rem;
+
+}
+
+.raw-mat{
+    padding-bottom: 2rem;
+}
+
+#add-remove{
+   background-color: #edfced;
+  
+   background-image: url(image/maksym-kaharlytskyi-851_Smpkk-U-unsplash.jpg);
+}
+
+.span{
+    color: blue;
+}
+
+#raw{
+    background-color: #EEF5FF;
+    
+    background-image: url(image/maksym-kaharlytskyi-2CjszXWGN9k-unsplash.jpg);
+}
+
+#supplier-info{
+    background-color: #fceded;
+    background-image: url(image/maksym-kaharlytskyi-kDVaFjoQf4M-unsplash.jpg);
+
+}
+
+#others{
+    background-color: #e0fbff;
+    background-image: url(image/kevin-kandlbinder-lfncQ6eU1cM-unsplash.jpg);
+
+}
+
+div{
+    color: #C0AB2B;
+}
+
+body{
+    background-image: url(image/e.jpg); 
+}
+
